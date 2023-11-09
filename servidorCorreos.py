@@ -9,4 +9,5 @@ class Correos:
         print("Total pagado: " + str(self.pago))
         print("Total descuentos: " + str(self.descuentos))
         print("correo enviado!!!")
+        print("Linea agregada en clase virtual 11/08/2023")
         # aca definir implementacion para enviar corroe electronico
